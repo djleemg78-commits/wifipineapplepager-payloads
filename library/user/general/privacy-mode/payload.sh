@@ -2,7 +2,7 @@
 #Title: toggle privacy mode
 #Description: Enables and disables privacy mode by edit the degub.json
 #Author: Rootjunky
-#Version: 2
+#Version: 2.0
 
 FILE=/usr/debug.json
 

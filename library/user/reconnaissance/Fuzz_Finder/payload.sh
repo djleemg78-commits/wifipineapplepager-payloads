@@ -1,7 +1,9 @@
 #!/bin/bash
-# FuzzFinder, inspired by NyanBOX (nyandevices.com)
-# OSINTI4L
-# Scans for Axon devices and alerts user if they're present.
+# Title: FuzzFinder
+# inspired by NyanBOX (nyandevices.com)
+# Author: OSINTI4L
+# Description: Scans for Axon devices and alerts user if they're present.
+# Version: 1.0
 
 LOG green ""
 LOG blue "Scanning for Axon devices.."

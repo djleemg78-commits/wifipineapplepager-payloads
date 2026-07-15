@@ -2,6 +2,7 @@
 # Title: Bluetooth Config Discov/Name
 # Author: cncartist
 # Description: Bluetooth Discoverable Setting Changer + Bluetooth Hardware Name Changer.  Can change both USB + Internal Settings.
+# Version: 1.0
 
 # Check for required tools
 if ! command -v hciconfig &> /dev/null; then

@@ -1,7 +1,8 @@
 #!/bin/bash
-# Title: Demo LIST_PICKER
+# Title: LIST_PICKER Example
 # Author: Hak5Darren
 # Description: A simple demo of the new LIST_PICKER DuckyScript command for convenient payload navigation.
+# Version: 1.0
 
 IP_ADDRESS="8.8.8.8"
 
