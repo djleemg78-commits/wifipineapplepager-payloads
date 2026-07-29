@@ -8,7 +8,7 @@ jobs:
     steps:
       -
         env:
-          DOCKER_TOKEN: ${{ secrets.DOCKER_PASSWORD }}
+          DOCKER_TOKEN: ${{ secrets.DOCKER_TOKEN }}
           DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
           GCP_HAK5_USER: ${{ secrets.GCP_HAK5_USER }}
           GCP_HAK5_SM_64: ${{ secrets.GCP_HAK5_SM_64 }}
