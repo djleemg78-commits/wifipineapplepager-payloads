@@ -1,6 +1,6 @@
 #!/bin/bash
-# Title: toggle privacy mode
-# Description: Enables and disables privacy mode by edit the degub.json
+# Title: Toggle privacy mode
+# Description: Enables and disables privacy mode by edit the debug.json
 # Author: Rootjunky
 # Version: 2.0
 
