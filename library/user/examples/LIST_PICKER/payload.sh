@@ -29,7 +29,7 @@ while true; do
 
     "About")
       # Example of a nested list
-      LIST_PICKER "This is a nested list" "Demo by @Hak5Darren" "Pager firmware by:" "@dragorn and @Korben" "<- Back" "<- Back"
+      LIST_PICKER "This is a nested list" "Demo by Hak5Darren" "Pager firmware by:" "dragorn and korben" "<- Back" "<- Back"
       # Selection is ignored, so all list items are essentially "<- Back"
       ;;
 
